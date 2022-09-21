@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yanko</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 
-- 🔭 I’m currently working on **Web API**
+- 🔭 I’m currently working on **ASP>NET CORE Web API**
 
 - 🌱 I’m currently learning **everything for .NET/.NET CORE**
 

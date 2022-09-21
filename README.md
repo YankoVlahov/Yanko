@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I think I will be the best but we will see :smiley:**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
